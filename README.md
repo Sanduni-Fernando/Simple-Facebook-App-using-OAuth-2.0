@@ -4,3 +4,5 @@
   -Clone the repository into your local environment.
   
   -Edit index.php with your App id, App Secret and the default graph version.
+  
+  For more [Details](https://wordpress.com/post/sgthetweetie.wordpress.com/174)
