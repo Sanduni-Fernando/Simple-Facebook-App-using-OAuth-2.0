@@ -3,4 +3,4 @@
   
   -Clone the repository into your local environment.
   
-  -Edit your App id, App Secret and the default graph version.
+  -Edit index.php with your App id, App Secret and the default graph version.
